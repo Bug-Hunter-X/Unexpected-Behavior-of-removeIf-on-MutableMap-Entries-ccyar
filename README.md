@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Kotlin bug related to the `removeIf` function when used with `MutableMap` entries. The bug arises from a misunderstanding of how `removeIf` operates on map entries, leading to unexpected results. The solution provides a corrected approach to achieve the desired behavior.
